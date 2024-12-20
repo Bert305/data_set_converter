@@ -5,6 +5,6 @@
 <p></p>
 <p>Make sure to install the appropriate Python libraries to create your .venv file inside of your project</p>
 <p></p>
-<p>pip install beautifulsoup4 requests pandas</p>
+<p><strong>pip install beautifulsoup4 requests pandas</strong></p>
 <p></p>
 <p>Enjoy!!!</p>
