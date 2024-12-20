@@ -1,0 +1,709 @@
+{
+    "GeneralInformation": {
+      "Name": "Workforce.Miami",
+      "Focus": "Economic development initiative in Miami-Dade County",
+      "Objective": "Align job training, education, and employment opportunities with the needs of growing industries",
+      "EquityFocus": "Equitable access for underrepresented communities (Black, Hispanic, women)",
+      "Connections": "Job seekers, employers, and community partners",
+      "Goals": "Address workforce shortages and local skills gap"
+    },
+    "Mission": {
+      "Commitment": "Closing the skills gap in Miami-Dade County",
+      "Population": "ALICE (Asset Limited, Income Constrained, Employed)",
+      "Goals": "Provide access to competitive-wage jobs, career training, tailored resources"
+    },
+    "Vision": {
+      "Goal": "Increase capacity of employers and workers",
+      "Focus": "Opportunities for under-represented communities",
+      "Aspiration": "Create an inclusive and prosperous Miami-Dade County"
+    },
+    "Values": {
+      "Inclusivity": "Engaging cross-sector partners in decision-making",
+      "Equity": "Equitable job opportunities for historically marginalized communities",
+      "Collaboration": "Partnerships with local government, community organizations, employers",
+      "Empowerment": "Support and resources for individual and business success"
+    },
+    "InitiativeFocus": "Skilled and diverse workforce development",
+    "Resources": [
+      "Centralized resources",
+      "Technical assistance",
+      "Commitment to address disparities in education, training, employment"
+    ],
+    "FindJobs": {
+      "Steps": [
+        "Click on 'Find a job' on the homepage",
+        "Use job search filters (industry, job type)",
+        "View detailed job descriptions",
+        "Apply directly through the site"
+      ]
+    },
+    "UpskillingOpportunities": {
+      "Where": "https://dashboard.workforce.miami/accredited_opportunities",
+      "Sections": [
+        "Apprenticeship Programs",
+        "Internships",
+        "Job Training"
+      ]
+    },
+    "ApprenticeshipPrograms": {
+      "Where": "https://dashboard.workforce.miami/accredited_opportunities",
+      "AdditionalWays": "Through the Job Opportunities Dashboard"
+    },
+    "PartTimeOpportunities": {
+      "Steps": [
+        "Click on 'Find a job' on the homepage",
+        "Use job search filters (industry, job type)",
+        "View detailed job descriptions",
+        "Apply directly through the site"
+      ]
+    },
+    "PostJob": {
+      "Steps": [
+        "Go to the Employer Section",
+        "Create an Employer Account",
+        "Login and access the Employer Dashboard",
+        "Click the 'Post a Job' button",
+        "Fill out job posting details (title, description, etc.)",
+        "Select appropriate categories and keywords",
+        "Review and publish the job",
+        "Manage and track applications"
+      ]
+    },
+        "ServicesAndResourcesForEmployers": {
+          "ApprenticeshipPrograms": {
+            "Description": "Customized apprenticeship programs to create a skilled talent pipeline, reducing recruitment costs and improving employee retention.",
+            "Benefits": "Aligns with operational needs, builds loyalty."
+          },
+          "DiversityAndInclusionSupport": {
+            "Description": "Helps employers establish diversity commitments, set goals, and track progress.",
+            "Objective": "Promote inclusive practices and workforce diversity."
+          },
+          "WraparoundServices": {
+            "Description": "Provides support to ensure apprentices and employees succeed. Includes access to training, mentorship, and resources."
+          },
+          "JobPostingsAndRecruitment": {
+            "Description": "List job opportunities on the platform to reach a diverse pool of job seekers."
+          },
+          "InternshipPrograms": {
+            "Description": "Engage with internship programs to develop young talent.",
+            "Objective": "Provide pathways to long-term employment."
+          },
+          "WorkforceTrainingAndUpskilling": {
+            "Description": "Access resources to upskill current workforce, improving problem-solving and productivity."
+          },
+          "ROIAndLongTermGrowth": {
+            "Description": "Supports creation of sustainable training models.",
+            "Benefit": "For every dollar invested in apprenticeships, companies see an average return of $1.47."
+        },
+        "ServicesAndResourcesForJobSeekers": {
+          "JobListingsAndEmploymentOpportunities": {
+            "Description": "Centralized job board for exploring open positions aligned with skills and career goals."
+          },
+          "ApprenticeshipPrograms": {
+            "Description": "Gain hands-on experience, training, and mentorship in structured environments."
+          },
+          "PreApprenticeshipAndInternshipOpportunities": {
+            "Description": "Connects seekers, including students, to early career exposure and skill development."
+          },
+          "WraparoundSupportServices": {
+            "Description": "Access to training, mentorship, and resources for addressing personal and professional challenges."
+          },
+          "UpskillingAndTrainingPrograms": {
+            "Description": "Resources to enhance skills in high-demand fields like tech, healthcare, and renewable energy."
+          },
+          "SupportForDiverseCommunities": {
+            "Description": "Provides equitable access for underrepresented communities through targeted programs and resources."
+        },
+        "KeyPartners": [
+          {
+            "Name": "Amazon",
+            "URL": "https://workforce.miami/amazon/"
+          },
+          {
+            "Name": "PortMiami",
+            "URL": "https://workforce.miami/portmiami-miami-dade-county/"
+          },
+          {
+            "Name": "Alto"
+          },
+          {
+            "Name": "Seaboard Marine"
+          },
+          {
+            "Name": "Future Ready Initiative Under Mayor Daniella Levine Cava"
+          },
+          {
+            "Name": "South Florida Anchor Alliance (SFAA)",
+            "URL": "https://workforce.miami/sf-anchor-alliance/"
+          },
+          {
+            "Name": "MDCPS (Miami Dade County Public Schools)"
+          }
+        ],
+        "UniqueBenefits": {
+          "LocalFocusAndRelevance": {
+            "Connections": "Integrated with Miami's economic development initiatives.",
+            "Benefits": "Exclusive job postings tied to Miami-Dade County projects."
+          },
+          "TailoredSupportForALICEPopulation": {
+            "Description": "Resources and opportunities tailored to ALICE needs, reducing employer administrative burdens."
+          },
+          "ComprehensiveWorkforceDevelopment": {
+            "Description": "A comprehensive hub for employment opportunities, upskilling programs, and support services.",
+            "Partnerships": "Leverages partnerships with reputable local organizations."
+          },
+          "EnhancedJobMatchingAndQualityControl": {
+            "Description": "Uses advanced matching technology and vetting of opportunities.",
+            "Benefits": "Trustworthy source of employment leads."
+          },
+          "SupportForEmployers": {
+            "Services": "Personalized landing pages, marketing, hiring fairs, and direct support."
+          },
+          "CommunityAndGovernmentAlignment": {
+            "Description": "Aligned with Miami-Dade County’s initiatives, offering socio-emotional and support services."
+          }
+        },
+        "AvailableCareers": {
+          "HealthCareAndSocialAssistance": [
+            "Registered Nurse",
+            "Medical Assistant",
+            "Home Health Aide",
+            "Healthcare Administrator",
+            "Social Worker"
+          ],
+          "Technology": [
+            "Software Developer",
+            "Data Analyst",
+            "Network Administrator",
+            "IT Support Specialist",
+            "Cybersecurity Analyst"
+          ],
+          "ConstructionAndSkilledTrades": [
+            "Electrician",
+            "Plumber",
+            "Carpenter",
+            "Project Manager",
+            "HVAC Technician"
+          ],
+          "HospitalityAndTourism": [
+            "Hotel Manager",
+            "Restaurant Supervisor",
+            "Event Planner",
+            "Chef",
+            "Guest Services Coordinator"
+          ],
+          "CleanEnergy": [
+            "Solar Panel Installer",
+            "Wind Turbine Technician",
+            "Environmental Engineer",
+            "Energy Efficiency Analyst",
+            "Renewable Energy Consultant"
+          ],
+          "ProfessionalScientificAndTechnicalServices": [
+            "Accountant",
+            "Legal Assistant",
+            "Marketing Specialist",
+            "Business Analyst",
+            "Human Resources Manager"
+          ]
+        },
+        "CareerPathwayMaps": {
+          "TechnologyIndustry": {
+            "Overview": "Growing employment in computer science and engineering with diversity challenges.",
+            "KeySkills": ["Marketing", "Web Development", "Computer Science", "Finance", "Bilingual Skills"]
+          },
+          "CleanEnergyIndustry": {
+            "Overview": "Rapidly growing sector with notable diversity gaps.",
+            "KeySkills": ["Renewable energy systems", "Technical skills in power generation", "Project management"]
+          },
+          "HospitalityAndTourismIndustry": {
+            "Overview": "Major industry with diversity and leadership gaps.",
+            "KeySkills": ["Customer service", "Management", "Operations skills"]
+          },
+          "HealthCareAndSocialAssistance": {
+            "Overview": "One of the largest employers with growing service demand.",
+            "KeySkills": ["Medical", "Technical", "Patient care", "Administration", "Bilingual skills"]
+          },
+          "Construction": {
+            "Overview": "Crucial for Miami's infrastructure with many apprenticeship opportunities.",
+            "KeySkills": ["Technical construction", "Project management", "Trade certifications"]
+          }
+        },
+        
+            "IndustryBenefits": {
+              "CustomizedPrograms": "Each industry benefits from customized apprenticeship programs, internship opportunities, and support services to help individuals navigate career pathways effectively."
+            },
+            "InternshipsOrApprenticeshipsWithoutCollegeDegree": {
+              "Overview": "Opportunities available without a college degree through Workforce.Miami.",
+              "Internships": {
+                "URL": "https://workforce.miami/interships/",
+                "TargetAudience": "High School Students and Entry-Level Job Seekers",
+                "Focus": "Skill development and hands-on experience",
+                "Qualifiers": "Skills, motivation, relevant coursework or certifications"
+              },
+              "Apprenticeships": {
+                "URL": "https://workforce.miami/registered-apprenticeships/",
+                "Requirements": "No Degree Required",
+                "Benefits": [
+                  "Hands-on training",
+                  "Earn While You Learn",
+                  "Pathway to Long-Term Employment"
+                ]
+              },
+              "GettingStarted": [
+                "Visit Apprenticeship and Internship Section",
+                "Create a Profile",
+                "Search and Apply",
+                "Leverage Wraparound Support Services"
+              ]
+            },
+            "DiversityAndInclusion": {
+              "EquitableAccessToOpportunities": {
+                "TargetedOutreach": "Emphasis on job opportunities for underrepresented communities",
+                "ALICESupport": "Tailored resources for living-wage jobs and career development"
+              },
+              "DiverseTalentPipelines": {
+                "Programs": "Internship and Apprenticeship Programs without a four-year degree",
+                "Training": "Customized training programs for diverse candidates"
+              },
+              "WraparoundSupportServices": {
+                "MentorshipAndCoaching": "In process of being added",
+                "SocioEmotionalSupport": "In process of being added"
+              },
+              "AdvancedMatchingTechnology": {
+                "CompetencyBasedMatching": "Matches candidates based on skills and competencies",
+                "VettedJobPostings": "Ensures quality and relevance of opportunities"
+              },
+              "EmployerSupport": {
+                "CreatingPrograms": "Helps employers design inclusive apprenticeship programs",
+                "SupportingUnderrepresentedGroups": "Targets high-growth sectors"
+              },
+              "FocusOnReducingEconomicDisparities": {
+                "Alignment": "Supports local government initiatives to reduce disparities",
+                "Initiatives": "Economic Mobility Initiatives"
+              },
+              "CommunityPartnerships": {
+                "Collaborators": [
+                  "South Florida Anchor Alliance",
+                  "PortMiami",
+                  "Tech Talent Coalition"
+                ]
+              },
+              "MeasuringImpact": {
+                "TrackingMetrics": "Offers tools to measure and report on diversity outcomes",
+                "ContinuousImprovement": "Encourages strategic review and best practice sharing"
+              }
+            },
+            "GettingInvolvedOrPartnering": {
+              "EmployerPartnerships": [
+                "Post Job Openings",
+                "Create Apprenticeship Programs",
+                "Offer Internships",
+                "Participate in Hiring Events",
+                "Showcase Employer Brand"
+              ],
+              "CommunityPartnerships": [
+                "Collaborate on Training Programs",
+                "Support Diversity and Inclusion Initiatives",
+                "Provide Wraparound Services"
+              ],
+              "Sponsorship": [
+                "Fund Programs",
+                "Corporate Sponsorships"
+              ],
+              "PromotionAndAdvocacy": [
+                "Spread the Word",
+                "Advocate for Job Growth"
+              ],
+              "GettingStartedSteps": [
+                "Email: info@workforce.miami",
+                "Contact Workforce.Miami Directly",
+                "Newsletter - Stay updated on the latest job opportunities and training programs—subscribe to our newsletter! Scroll to the bottom of the page and enter your email address."
+              ],
+              "CurrentPartners": [
+                "Anchor Employers",
+                "Local Educational Institutions",
+                "Community Organizations",
+                "Government and Economic Development Agencies"
+              ]
+            },
+            "OJTBenefits": {
+              "ForEmployers": {
+                "CostSavings": "Wage reimbursement during training period",
+                "TailoredTraining": "Customized programs to meet operational needs",
+                "ReducedRecruitmentRisk": "Minimized financial impact if trainee isn't a good match",
+                "IncreasedRetention": "Stronger loyalty and retention through training",
+                "AccessToLargerTalentPool": "Opportunities for candidates who show potential"
+              },
+              "ForJobSeekers": {
+                "EarnWhileYouLearn": "Receive salary during training",
+                "StructuredLearningEnvironment": "Job-specific skills and mentorship",
+                "PathwayToLongTermEmployment": "Potential for permanent roles post-training",
+                "UpskillOpportunity": "Build new skills for competitiveness"
+              },
+              "RelationToWorkforceMiami": {
+                "EmployerPartnerships": "Collaborates to create OJT opportunities",
+                "ConnectingJobSeekers": "Matches candidates with OJT positions",
+                "TechnicalAssistance": "Supports employers in designing OJT programs",
+                "EquityAndInclusionFocus": "Promotes equitable access for underrepresented communities"
+              },
+              "GettingStartedWithOJT": {
+                "ForEmployers": [
+                  "Register as an Employer",
+                  "Connect with an OJT Specialist",
+                  "Create a Training Plan"
+                ],
+                "ForJobSeekers": [
+                  "Visit Website",
+                  "Create Profile",
+                  "Apply for OJT Programs"
+                ]
+              }
+            },
+            "TechnicalSupport": {
+              "AccessNotifications": [
+                "Create an account",
+                "Go to account settings",
+                "Click on notifications",
+                "Edit notification settings"
+              ],
+              "LoginAndSecurity": [
+                "Go to account settings",
+                "Manage login and security details"
+              ],
+              "ContactSupport": "info@workforce.miami"
+            },
+            "WorkforceMiamiServicesForDisabilities": {
+    "Description": "Workforce.Miami offers targeted services to help individuals with disabilities thrive in the workforce by addressing common employment barriers.",
+    "KeyServices": [
+      {
+        "Name": "Apprenticeship and Internship Programs",
+        "Description": "Provides hands-on training with wages from day one, allowing individuals to gain industry-relevant experience while learning on the job."
+      },
+      {
+        "Name": "Wraparound Support Services",
+        "Description": "Includes career counseling, mentorship, and job-related education to help participants overcome personal and professional challenges."
+      },
+      {
+        "Name": "Skills Training and Upskilling",
+        "Description": "Offers certifications and credentials to help job seekers with disabilities stand out to employers."
+      },
+      {
+        "Name": "Diversity-Focused Employer Network",
+        "Description": "Collaborates with employers committed to inclusive hiring practices to create supportive work environments that embrace diversity and accessibility."
+      }
+    ],
+    "AccessInformation": {
+      "LinkSource1": "https://dashboard.workforce.miami/accredited_opportunities",
+      "UpSkillPage": "Workforce.Miami Year-Round Accredited Programs",
+      "OpportunitiesPage": "Workforce.Miami Opportunities Dashboard",
+      "LinkSource2" : "https://dashboard.workforce.miami/opportunitie"
+    }
+  },
+  "WorkforceMiamiSupportForFormerlyIncarcerated": {
+    "Description": "Workforce.Miami offers inclusive support services for formally incarcerated individuals, focusing on reducing employment barriers and uplifting marginalized groups.",
+    "KeyResources": [
+      {
+        "Name": "Apprenticeships and Opportunities Hub",
+        "Description": "Provides details on apprenticeships, internships, and jobs with pathways designed to reduce employment barriers for marginalized groups, including the formerly incarcerated.",
+        "URL": "https://dashboard.workforce.miami/accredited_opportunities"
+      },
+      {
+        "Name": "Apprenticeship Program Details",
+        "Description": "Explains registered apprenticeships that build skills through hands-on training, mentorship, and structured environments, especially for those reentering the workforce.",
+        "URL": "https://workforce.miami/apprenticeships/"
+      }
+    ]
+  },
+  "youth_job_fairs_and_career_events": {
+        "description": "Collaborations to host youth job fairs and career events.",
+        "upcoming_events": "Check Workforce.Miami and CareerSource South Florida websites for announcements.",
+        "contact_information": {
+          "website": "https://www.careersourcesfl.com"
+        }
+      },
+      "pre_apprenticeship_programs": {
+        "description": "Short-term training programs to prepare for full apprenticeship roles.",
+        "program_features": "Include basic skills training and industry exposure.",
+        "contact_information": {
+          "website": "https://dashboard.workforce.miami/accredited_opportunities"
+        }
+      }
+    },
+    "community_partnerships": "Workforce.Miami partners with local schools, community organizations, and employers to offer comprehensive support.",
+    "how_to_get_involved": "Visit the Workforce.Miami website or reach out to program coordinators for participation details."
+  },
+  "steps_to_create_account": {
+    "navigate_to_registration_page": {
+      "description": "Look for a 'Sign Up' or 'Create Account' button on the homepage.",
+      "location": "Usually in the top right corner or main menu."
+    },
+    "choose_your_account_type": {
+      "job_seeker": "Select if looking for job opportunities, apprenticeships, internships, or career resources.",
+      "employer": "Select if an employer looking to post job listings or access candidate resumes."
+    },
+    "fill_out_registration_form": {
+      "required_fields": [
+        "Name",
+        "Email Address",
+        "Password",
+        "Phone Number (if applicable)"
+      ],
+      "employer_additional_info": "Company information, including business name and location."
+    },
+    "verify_email": "Receive a verification email and click the link to verify your account.",
+    "log_in_to_account": "Return to the homepage and log in using your email and password.",
+    "set_up_profile": {
+      "job_seekers": "Add your resume, skills, and job preferences.",
+      "employers": "Set up company profile, including a company description and open job listings."
+    }
+  },
+  "talent_pool_access": {
+    "description": "Employers can access resumes and profiles of job seekers via the Workforce.Miami Dashboard.",
+    "access_steps": [
+      {
+        "step": 1,
+        "description": "Navigate to Employer Services on the homepage."
+      },
+      {
+        "step": 2,
+        "description": "Register or log in to access the dashboard."
+      },
+      {
+        "step": 3,
+        "description": "Access the Employer Dashboard to manage job postings and view profiles."
+      },
+      {
+        "step": 4,
+        "description": "Use Search and Filter options to find candidates based on criteria."
+      },
+      {
+        "step": 5,
+        "description": "Browse resumes and detailed profiles of job seekers."
+      },
+      {
+        "step": 6,
+        "description": "Connect with candidates through messaging or by scheduling interviews."
+      },
+{
+        "step": 7,
+        "description": "Utilize Apprenticeship.Miami for talent development through internships and apprenticeships."
+      }
+    ]
+  },
+  "DisasterAssistance": {
+    "Guidance": "Workforce.Miami provides guidance and support to individuals and employers affected by natural disasters or other emergencies.",
+    "Services": {
+      "DisasterUnemploymentAssistance": {
+        "Description": "Helps workers who have lost their jobs or had their work hours reduced due to a natural disaster. Provides temporary income support to eligible individuals, including self-employed workers.",
+        "Eligibility": "Individuals must have lost employment or work hours as a direct result of a disaster and are not eligible for regular state unemployment benefits.",
+        "ApplicationProcess": {
+          "ProcessedThrough": "Florida Department of Economic Opportunity (DEO)",
+          "Website": "https://floridajobs.org/floridadisaster.biz/recover-2/disaster-unemployment-assistnce",
+          "Phone": "1-800-385-3920"
+        }
+      },
+      "EmergencyEmploymentPrograms": {
+        "Description": "Connects affected individuals to emergency employment programs providing temporary jobs in disaster response and recovery.",
+        "ProgramFeatures": "Offers immediate employment opportunities for displaced workers while supporting community recovery efforts.",
+        "ContactInformation": {
+          "Website": "https://careersourceflorida.com/disaster-recovery/"
+        }
+      },
+      "SupportForBusinesses": {
+        "BusinessContinuityResources": "Assists local businesses in accessing resources like Florida Small Business Emergency Bridge Loan Program, SBA Disaster Loans, and economic injury assistance.",
+        "EmployerAssistance": "Help navigating workforce management during emergencies, including payroll, employee assistance, and support services.",
+        "ContactInformation": {
+          "Phone": "305-594-7615",
+          "Website": "https://www.careersourcesfl.com/"
+        }
+      },
+      "RapidResponseServices": {
+        "Description": "Provides rapid response services to help manage workforce transitions during disasters, including layoff aversion strategies and reemployment support.",
+        "ContactInformation": {
+          "Phone": "305-594-7615",
+          "Website": "https://www.careersourcesfl.com/"
+        }
+      },
+      "AdditionalResources": {
+        "FloridaRebuildsProgram": {
+          "Description": "Offers temporary employment for individuals affected by hurricanes and natural disasters in roles such as construction and debris removal.",
+          "Eligibility": "Individuals who have lost their jobs due to the disaster or are long-term unemployed.",
+          "Website": "https://floridajobs.org/rebuildflorida"
+        },
+        "MiamiDadeCountyEmergencyManagement": {
+          "Description": "Provides local resources including shelter information, emergency updates, and recovery program guidance.",
+          "ContactInformation": {
+            "Phone": "305-468-5400",
+            "Website": "https://www.miamidade.gov/global/emergency/home.page"
+          }
+        },
+        "FEMA": {
+          "Description": "Offers financial assistance and services like housing assistance and crisis counseling to individuals and businesses affected by a disaster.",
+          "ApplicationProcess": {
+            "Website": "https://www.floridadisaster.org/",
+            "Phone": "1-800-621-3362",
+            "TTY": "1-800-462-7585"
+          }
+        }
+      }
+    },
+    "SupportServices": {
+      "DisasterPreparednessAndRecovery": {
+        "InformationAndGuidance": "Workforce.Miami provides updated information on local, state, and federal resources during disaster events.",
+        "ResourceReferrals": "Connects individuals and businesses with community partners, non-profit organizations, and government agencies.",
+        "EconomicMobilityDashboard": "Features updates and resources relevant to disaster recovery and employment services during emergencies."
+      }
+    },
+    "ContactInformation": {
+      "Website": "Workforce.Miami",
+      "Partners": "CareerSource South Florida"
+    }
+  },
+  "HealthcareResources": {
+    "description": "Information on local clinics, mental health services, and health insurance assistance. Workforce.Miami connects users to healthcare resources to support overall well-being and enable success in employment and career development.",
+    "LocalClinicsAndHealthCenters": [
+      {
+        "name": "Community Health of South Florida, Inc. (CHI)",
+        "description": "Provides comprehensive healthcare services, including primary care, dental care, pediatrics, mental health services, and substance abuse treatment.",
+        "services": "General health check-ups, immunizations, family planning, and specialty care.",
+        "contactInformation": {
+          "phone": "305-253-5100",
+          "website": "https://chisouthfl.org/",
+          "mainAddress": "10300 SW 216th St, Miami, FL 33190"
+        }
+      },
+      {
+        "name": "Borinquen Medical Centers",
+        "description": "Offers a range of healthcare services such as primary care, women’s health, behavioral health, dental care, and HIV/AIDS services.",
+        "contactInformation": {
+          "phone": "305-576-6611",
+          "website": "https://www.borinquenhealth.org/",
+          "mainAddress": "3601 Federal Hwy, Miami, FL 33137"
+        }
+      },
+      {
+        "name": "Camillus Health Concern",
+        "description": "A healthcare provider specializing in serving the homeless and low-income individuals. Services include medical care, behavioral health support, substance abuse counseling, and preventive care.",
+        "contactInformation": {
+          "phone": "305-577-4840",
+          "website": "https://www.camillus.org/",
+          "address": "336 NW 5th St, Miami, FL 33128"
+        }
+      },
+      {
+        "name": "Miami Beach Community Health Center",
+        "description": "Provides a variety of health services, including primary care, pediatrics, women’s health, and behavioral health services.",
+        "contactInformation": {
+          "phone": "305-538-8835",
+          "website": "https://mymbchc.org/",
+          "address": "710 Alton Rd, Miami Beach, FL 33139"
+        }
+      }
+    ],
+    "MentalHealthServices": [
+      {
+        "name": "Thriving Mind South Florida",
+        "description": "Connects individuals and families to a network of providers offering mental health and substance abuse services.",
+        "crisisHelpline": "1-888-248-3111",
+        "website": "https://thrivingmind.org/"
+      },
+      {
+        "name": "Miami-Dade County Community Action and Human Services Department (CAHSD) – Behavioral Health Services",
+        "description": "Provides mental health counseling, substance abuse treatment, and crisis intervention services for residents.",
+        "contactInformation": {
+          "phone": "786-469-4600",
+          "website": "Miami-Dade Community Action Behavioral Health Services"
+        }
+      },
+      {
+        "name": "NAMI Miami-Dade County (National Alliance on Mental Illness)",
+        "description": "Offers support groups, educational programs, and mental health resources for individuals and families affected by mental illness.",
+        "helpline": "305-665-2540",
+        "website": "https://namimiami.org/"
+      },
+      {
+        "name": "Institute for Child and Family Health (ICFH)",
+        "description": "Provides mental health counseling, psychiatric care, and family support services for children and adolescents.",
+        "contactInformation": {
+          "phone": "305-274-3172",
+          "website": "https://cayugacenters.org/miami-dade/",
+          "address": "15490 NW 7th Ave, Miami, FL 33169"
+        }
+      },
+      {
+        "name": "Miami Vet Center – Readjustment Counseling for Veterans",
+        "description": "Provides mental health support, readjustment counseling, group therapy, and family counseling for veterans and their families.",
+        "contactInformation": {
+          "phone": "305-718-3712",
+          "website": "Miami Vet Center",
+          "address": "8280 NW 27th St, Suite 511, Miami, FL 33122"
+        }
+      }
+    ],
+    "HealthInsuranceAssistance": [
+      {
+        "name": "Florida KidCare",
+        "description": "Offers low-cost health insurance for children in Florida.",
+        "contactInformation": {
+          "phone": "1-888-540-5437",
+          "website": "https://www.floridakidcare.org/"
+        }
+      },
+      {
+        "name": "Health Council of South Florida – Health Insurance Marketplace Assistance",
+        "description": "Provides assistance with applying for health insurance through the Affordable Care Act (ACA) Marketplace.",
+        "contactInformation": {
+          "phone": "305-592-1452",
+          "website": "https://healthcouncil.org/"
+        }
+      },
+      {
+        "name": "Covering Florida",
+        "description": "Offers free assistance with enrolling in health insurance plans through the ACA, Medicaid, and Medicare.",
+        "contactInformation": {
+          "phone": "877-813-9115",
+          "website": "https://coveringflorida.org/"
+        }
+      },
+      {
+        "name": "Catalyst Miami – Health Access Program",
+        "description": "Provides health insurance application support and health advocacy for low-income families.",
+        "contactInformation": {
+          "phone": "305-576-5001",
+          "website": "https://www.catalystmiami.org/"
+        }
+      }
+    ],
+    "EmergencyHealthServices": {
+      "name": "Jackson Health System – Urgent Care and Emergency Services",
+      "description": "Offers emergency care, trauma services, and urgent care across Miami-Dade County.",
+      "contactInformation": {
+        "phone": "305-585-6000",
+        "website": "https://jacksonhealth.org/"
+      }
+    }
+  },
+  "SupportServices": {
+    "description": "Workforce Miami offers wraparound support services aimed at helping job seekers overcome barriers to employment, including assistance with basic needs such as food and housing.",
+    "HousingAndFoodResources": [
+      {
+        "name": "Miami-Dade Homeless Trust",
+        "description": "Offers housing programs, emergency shelters, and services for homeless individuals and families.",
+        "website": "https://homelesstrust.org"
+      },
+      {
+        "name": "Feeding South Florida",
+        "description": "Provides food distribution, pantries, and hunger relief programs throughout the region.",
+        "website": "https://feedingsouthflorida.org"
+      },
+      {
+        "name": "Miami-Dade County Housing Programs",
+        "description": "Offers affordable housing resources, rental assistance, and public housing programs.",
+        "website": "https://www.miamidade.gov/global/housing/home.page"
+      }
+    ]
+  }
+}
+          
+      
